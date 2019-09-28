@@ -1,8 +1,0 @@
-<<<<<<< HEAD
-asdaa
-qwerttyyyyy
-asfg
-=======
-aa
-test
->>>>>>> 98299b01145198f8e8b5ef0a7d07d3f0e09e95d9
